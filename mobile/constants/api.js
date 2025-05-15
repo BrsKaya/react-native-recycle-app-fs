@@ -1,0 +1,1 @@
+export const API_URL = "https://yesil-adimlar-react-native.onrender.com/api";
