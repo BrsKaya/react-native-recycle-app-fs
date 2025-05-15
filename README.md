@@ -18,6 +18,8 @@ This project includes a mobile application and backend service that promotes an 
 ![5](https://github.com/user-attachments/assets/4c70fd4b-d7f7-4cd6-8e95-98b4d68c04e0)
 
 
+## Project Structure
+
 - `backend/`: Node.js based backend service
 - `mobile/`: React Native based mobile application
 
