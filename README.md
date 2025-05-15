@@ -1,4 +1,4 @@
-# Green Steps Application
+# Recycle Mobile App
 
 This project includes a mobile application and backend service that promotes an eco-friendly lifestyle.
 
