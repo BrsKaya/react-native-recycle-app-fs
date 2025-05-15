@@ -1,4 +1,4 @@
-![3](https://github.com/user-attachments/assets/c5cb04dc-d324-472d-9792-8704840d7e27)# Green Steps Application
+# Green Steps Application
 
 This project includes a mobile application and backend service that promotes an eco-friendly lifestyle.
 
