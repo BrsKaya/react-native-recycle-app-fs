@@ -25,6 +25,15 @@ This project includes a mobile application and backend service that promotes an 
 
 ## Installation
 
+### .env Setup
+```bash
+PORT=3000
+MONGO_URI=<your_mongo_uri>
+JWT_SECRET=<your_jwt_token>
+
+API_URL=http://localhost:3000/api
+```
+
 ### Backend
 
 ```bash
